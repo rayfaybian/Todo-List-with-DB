@@ -1,0 +1,12 @@
+C:\Coding\C#\Todo-List\Data\bin\Debug\Data.dll.config
+C:\Coding\C#\Todo-List\Data\bin\Debug\Data.dll
+C:\Coding\C#\Todo-List\Data\bin\Debug\Data.pdb
+C:\Coding\C#\Todo-List\Data\bin\Debug\EntityFramework.dll
+C:\Coding\C#\Todo-List\Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Coding\C#\Todo-List\Data\bin\Debug\EntityFramework.xml
+C:\Coding\C#\Todo-List\Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Coding\C#\Todo-List\Data\obj\Debug\Data.csprojAssemblyReference.cache
+C:\Coding\C#\Todo-List\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Coding\C#\Todo-List\Data\obj\Debug\Data.csproj.CopyComplete
+C:\Coding\C#\Todo-List\Data\obj\Debug\Data.dll
+C:\Coding\C#\Todo-List\Data\obj\Debug\Data.pdb

@@ -1,0 +1,15 @@
+C:\Coding\C#\Todo-List\TodoListLogic\bin\Debug\TodoListLogic.dll.config
+C:\Coding\C#\Todo-List\TodoListLogic\bin\Debug\TodoListLogic.dll
+C:\Coding\C#\Todo-List\TodoListLogic\bin\Debug\TodoListLogic.pdb
+C:\Coding\C#\Todo-List\TodoListLogic\bin\Debug\EntityFramework.dll
+C:\Coding\C#\Todo-List\TodoListLogic\bin\Debug\EntityFramework.SqlServer.dll
+C:\Coding\C#\Todo-List\TodoListLogic\bin\Debug\EntityFramework.xml
+C:\Coding\C#\Todo-List\TodoListLogic\bin\Debug\EntityFramework.SqlServer.xml
+C:\Coding\C#\Todo-List\TodoListLogic\obj\Debug\TodoListLogic.csprojAssemblyReference.cache
+C:\Coding\C#\Todo-List\TodoListLogic\obj\Debug\TodoListLogic.csproj.CoreCompileInputs.cache
+C:\Coding\C#\Todo-List\TodoListLogic\obj\Debug\TodoListLogic.csproj.CopyComplete
+C:\Coding\C#\Todo-List\TodoListLogic\obj\Debug\TodoListLogic.dll
+C:\Coding\C#\Todo-List\TodoListLogic\obj\Debug\TodoListLogic.pdb
+C:\Coding\C#\Todo-List\TodoListLogic\bin\Debug\Data.dll
+C:\Coding\C#\Todo-List\TodoListLogic\bin\Debug\Data.pdb
+C:\Coding\C#\Todo-List\TodoListLogic\bin\Debug\Data.dll.config

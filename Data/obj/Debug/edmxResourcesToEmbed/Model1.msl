@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="TodolistModelStoreContainer" CdmEntityContainer="TodolistEntities">
+    <EntitySetMapping Name="todos">
+      <EntityTypeMapping TypeName="TodolistModel.todos">
+        <MappingFragment StoreEntitySet="todos">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="todo" ColumnName="todo" />
+          <ScalarProperty Name="datetime" ColumnName="datetime" />
+          <ScalarProperty Name="done" ColumnName="done" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
